@@ -1,0 +1,10 @@
+spring:
+  thymeleaf:
+    cache: false
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: ad46ef8a583f7f19cc68
+            client-secret: 83fb95c2194e388814d378ecb4798b402184251e
